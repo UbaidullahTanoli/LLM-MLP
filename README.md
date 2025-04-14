@@ -131,5 +131,5 @@ Transfer Learning is used to avoid overfitting by freezing the LLM. The model us
 | **ROC AUC**     | 0.9732            | 34                 | 0.9729            | 40                |
 | **PR AUC**      | 0.9835            | 32                 | 0.9828            | 40                |
 
-The LLM+MLP model seemed to perform exceptionally well on the data even know only the MLP was trained, that too with a very limited data. The improvements in metrics at the end was minimal as the learning rate kept decreasing linearly with each epoch to avoid overshooting or oscialling in the global minima. Overal no sign of overfitting or underfitting was noticed.
+The LLM+MLP model seemed to perform exceptionally well on the data even know only the MLP was trained, that too with a very limited data. The improvements in metrics at the end was minimal as the learning rate kept decreasing linearly with each epoch to avoid overshooting or oscialling in the global minima. Overal no sign of overfitting or underfitting was noticed. 
 

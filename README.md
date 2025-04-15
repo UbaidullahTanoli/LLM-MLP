@@ -6,7 +6,7 @@ This project focuses on the predictive power of a (non-multimodel) LLM on Medica
 
 Indiana University Chest X-ray dataset was used in the project.
 The dataset contains 7,470 pairs of images and reports and measures 14.19 GB. The reports were used as ground truth to compare CNN's predictions.
-IU X-ray (Demner-Fushman et al., 2016) can be accessed [here](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university)
+IU X-ray (Demner-Fushman et al., 2016) can be accessed [here](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university).
 
 ## LLM
 
